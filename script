@@ -1,0 +1,10 @@
+#!/bin/bash
+
+for SRC in $(find * -type f)
+do
+
+file $SRC
+echo $a
+
+done
+
