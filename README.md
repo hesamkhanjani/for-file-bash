@@ -1,4 +1,4 @@
-# _for_ in file( **directory** ) and check type file
+# `for` in file( **directory** ) and check type file
 
 ---
 
